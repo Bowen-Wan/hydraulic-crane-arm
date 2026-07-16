@@ -3,7 +3,7 @@ Arduino-controlled crane arm with syringe-hydraulic lift joint and string grippe
 
 # Hydraulic Popsicle-Stick Crane Arm
 
-A popsicle-stick crane with a syringe-hydraulic lift joint and a string-actuated gripper, controlled by an Arduino UNO. Built at the UBC Mechatronics Senior Camp, July 2026.
+A popsicle-stick crane with a syringe-hydraulic lift joint and a string-actuated gripper controlled by an Arduino UNO. Built at the UBC Mechatronics Senior Camp, July 2026.
 
 <img width="1184" height="896" alt="b1b03dd3-c12a-4e52-af1d-bc06f7482945" src="https://github.com/user-attachments/assets/cb4668f6-0c27-4f65-8c01-6df6eba2c5bf" />
 
